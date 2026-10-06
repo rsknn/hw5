@@ -8,7 +8,7 @@ $$\gamma = 5 \operatorname{arctg}(x) - \frac{1}{4} \operatorname{arccos}(x) \cdo
 **Исходные данные:**
 * $x = 0.1722$
 * $y = 6.33$
-* $z = 3.25 \times 10^{-4}
+* $z = 3.25*10^-4$
 
 **Контрольный результат:**
 * $\gamma \approx -205.305571$
