@@ -3,12 +3,12 @@
 Создать программу вычисления указанной величины. Результат проверить при заданных исходных значениях.
 
 **Формула:**
-$$\gamma = 5 \operatorname{arctg}(x) - \frac{1}{4} \operatorname{arccos}(x) \cdot \frac{x + 3\vert{}x - y\vert{} + x^2}{\vert{}x - y\vert{}z + x^2}$$
+$$\gamma = 5 \text{arctg}(x) - \frac{1}{4} \arccos(x) \cdot \frac{x + 3\vert{}x - y\vert{} + x^2}{\vert{}x - y\vert{}z + x^2}$$
 
 **Исходные данные:**
 * $x = 0.1722$
 * $y = 6.33$
-* $z = 3.25*10^-4$
+* $z = 3.25*10^{-4}$
 
 **Контрольный результат:**
 * $\gamma \approx -205.305571$
